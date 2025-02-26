@@ -20,7 +20,7 @@ Here are some snapshots of the dashboard in action:
 
 
 ### Snapshot 4
-![Dashboard Snapshot 4](Hotelfilter1.PNG)
+![Dashboard Snapshot 4](hotelfilter1.PNG)
 
 
 ## Tools and Technologies Used
