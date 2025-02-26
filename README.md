@@ -1,4 +1,4 @@
-# Booking Reporrt with Power BI
+# Booking Report with Power BI
 
 This project features a Power BI dashboard developed to visualize key business metrics for booking dataset, including revenue, visitors and checked in turned out.
 ## Dashboard Features
@@ -10,14 +10,17 @@ This project features a Power BI dashboard developed to visualize key business m
 Here are some snapshots of the dashboard in action:
 
 ### Snapshot 1
-![Dashboard Snapshot 1](report.PNG)
+![Dashboard Snapshot 1](HotelMain.PNG)
 
 ### Snapshot 2
-![Dashboard Snapshot 2](report2.PNG)
+![Dashboard Snapshot 2](HotelReservation.PNG)
 
 ### Snapshot 3
-![Dashboard Snapshot 3](report3.PNG)
+![Dashboard Snapshot 3](HotelFilter.PNG)
 
+
+### Snapshot 4
+![Dashboard Snapshot 3](HotelFilter1.PNG)
 
 
 ## Tools and Technologies Used
